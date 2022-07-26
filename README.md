@@ -14,3 +14,7 @@ Windows operating system innately have the capacity to detect NFC tags, if conne
 NFC reader, but do not by default have the capability to execute records stored on NFCs. My
 project reads and executes the record stored on the NFC cards in Windows for the intended use
 case of streaming and recording videos.
+
+
+https://user-images.githubusercontent.com/8564729/181118490-d19d4616-9b72-4991-8f9d-1fccd1a1e1b3.mp4
+
